@@ -16,9 +16,8 @@
 
 # talk goals
 
-- context
-- experiences
-- reflections
+- context, history
+- our experience, reflections
 
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
@@ -100,14 +99,21 @@
 
 ^COMPARISON AGAINST A MASTER
 
+^Software people might know this as testing
+
 Standards, Measuring, QA, inventory
 
 ![](/Users/clark/Downloads/Gribeauval_system_elements.jpg)
 
-
 ---
 
 ^Steam Engine
+
+^Early 1700s
+
+^Massive efficiency
+^Could run all the time
+^Wouldn't get tired like a horse
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Jacob_Leupold_Steam_engine_1720.jpg)
 
@@ -121,9 +127,20 @@ Standards, Measuring, QA, inventory
 ---
 
 ^Charles Babbage
+^Ada Lovelace
+^Difference Engine, 1822
 
 ![](/Users/clark/Downloads/Charles_Babbage_by_Antoine_Claudet_c1847-51-crop.jpg)
+![](/Users/clark/Downloads/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg)
 ![](/Users/clark/Downloads/Difference_engine_plate_1853.jpg)
+
+---
+
+^Lovelace's "Note G", the first program ever written, to calculate a series of the Bernoulli Numbers
+^Unfortunately the machine for which she wrote the program was never built, so she never got to run the program.
+^In this way, having had her project canned before completion, she really is the first programmer.
+
+![](/Users/clark/Downloads/Diagram_for_the_computation_of_Bernoulli_numbers copy.jpg)
 
 ---
 
@@ -158,23 +175,9 @@ Standards, Measuring, QA, inventory
 
 ---
 
-^Planning, statistics
+^1960s/1970s
 
-
-
-<!-- up and to the right -->
-
-^Up and to the right
-
-^If you look at the history of humans applying technology to things, it kind of looks like this
-
-^Today, we're somewhere on the right side of this graph.
-
-^Or, maybe the left. I'll let you be the judge.
-
-
-![](/Users/clark/Desktop/Screen Shot 2019-02-24 at 5.37.25 PM.png)
-
+![](/Users/clark/Downloads/Arpanet-1972-Map.png)
 
 ---
 
@@ -183,29 +186,56 @@ Standards, Measuring, QA, inventory
 
 ---
 
-# 3D printing
+^Reprap
 
 ^You may know 3D printing, but if you don't
+^3D printing is manufacturing by the precise addition of raw material
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Reprap_at_Metalab.jpg)
 
 
 ---
-
-
-
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Reprap_at_Metalab.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Witten_Zentralbibliothek_Makerbot_Replicator.jpg)
 
 ---
 
-# EXPERIENCES
+^End to end production factory
+^From sale to design to production, QA, fulfillment, reorder, everything
+
+TODO: SHOTS OF THE FACTORY
+
+
+---
+
+^Why do you want to own a piece of that?
+^Why not just outsource it to SAP, or any of the other providers
+^Change. Adapatation
+^Software engineers knows this already, some people have called it agile,
+^But it's the same desire.
+^The degree to which you can usefully change something is dependent on the degree to which you understand it.
+
+TODO: SHOTS OF THE PRINTERS
+
+
+---
+
+TODO: SHOTS OF PARTS PRINTING ON THE PRINTERS
+
+---
+
+
+TODO: SHOTS OF THE IPADS WITH WORK ORDERS ON THEM
+
+---
+
+![](/Users/clark/Downloads/1*wVcT8A29lBkN0gXFPJUF3w copy.png)
 
 ---
 
 ^TODO needs pic
+
+^We're trying to be a business.
 
 ^We're trying to prove that our product, production-quality additive parts, is something people want
 
@@ -230,7 +260,7 @@ Standards, Measuring, QA, inventory
 ^rpi: get on the box with observer
 ^rpi: libcluster as discovery
 ^phoenix-app: model processing background work, idempotent
-^ipads: in the plant, WEBSOCKET
+^ipads: WORK ORDERS, in the plant, via WEBSOCKET
 
 ---
 
@@ -444,3 +474,18 @@ end)
 
 ---
 
+
+^Planning, statistics
+
+<!-- up and to the right -->
+
+^Up and to the right
+
+^If you look at the history of humans applying technology to things, it kind of looks like this
+
+^Today, we're somewhere on the right side of this graph.
+
+^Or, maybe the left. I'll let you be the judge.
+
+
+![](/Users/clark/Desktop/Screen Shot 2019-02-24 at 5.37.25 PM.png)
