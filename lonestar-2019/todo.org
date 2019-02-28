@@ -1,19 +1,26 @@
 * talk yet to do
-** cut some history
-** assess each slide for talking points
-** tighten up link between history, FR, and elixir
-** where does "produce/process" definition go?
+** TODO cut some history
+** TODO assess each slide for talking points
+** DONE tighten up link between history, FR, and elixir
+   CLOSED: [2019-02-28 Thu 13:04]
+** TODO where does "produce/process" definition go?
+** TODO hammer on "what FR is"
 ** code examples and context
-*** libcluster: more context
-*** hot code loading: pic of rpi and temp sensor
-*** better graphic for "background work"/supervision
-*** phoenix channel: hammer this down
+*** DONE better intro to phoenix use
+    CLOSED: [2019-02-28 Thu 13:03]
+*** TODO better graphic for "background work"/supervision
+*** DONE phoenix channel: hammer this down
+    CLOSED: [2019-02-28 Thu 13:03]
+*** DONE libcluster: more context
+    CLOSED: [2019-02-28 Thu 13:03]
+*** DONE hot code loading: pic of rpi and temp sensor
+    CLOSED: [2019-02-28 Thu 13:03]
 ** reflections
-*** otp is great, it is not magic
-*** you have to design
-*** the world is messy, iteration is messy
-*** elixir doesn't do everything, it's great at controlling
-*** don't prematurely break apart. break apart when faults emerge
-** wrap
-** process: go forward, 30 years
-** FR, come talk to me, 
+*** TODO otp is great, it is not magic
+*** TODO you have to design
+*** TODO the world is messy, iteration is messy
+*** TODO elixir doesn't do everything, it's great at controlling
+*** TODO don't prematurely break apart. break apart when faults emerge
+** TODO wrap
+** TODO process: go forward, 30 years
+** TODO FR, come talk to me, 
