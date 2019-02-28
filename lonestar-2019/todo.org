@@ -1,0 +1,19 @@
+* talk yet to do
+** cut some history
+** assess each slide for talking points
+** tighten up link between history, FR, and elixir
+** where does "produce/process" definition go?
+** code examples and context
+*** libcluster: more context
+*** hot code loading: pic of rpi and temp sensor
+*** better graphic for "background work"/supervision
+*** phoenix channel: hammer this down
+** reflections
+*** otp is great, it is not magic
+*** you have to design
+*** the world is messy, iteration is messy
+*** elixir doesn't do everything, it's great at controlling
+*** don't prematurely break apart. break apart when faults emerge
+** wrap
+** process: go forward, 30 years
+** FR, come talk to me, 
