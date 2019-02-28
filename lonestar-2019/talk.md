@@ -51,22 +51,6 @@
 
 ---
 
-## Process
-- 'pro' - 'cedere': "forward, to go"
-- a series of actions or steps taken in order to achieve a particular end
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
-
----
-
-## Produce
-- Latin: 'pro' - 'ducere': "forward, to lead"
-- create or form (something) as part of a physical, biological, or chemical process
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
-
----
-
 
 ^Cuneiform. Writing.
 
@@ -101,7 +85,7 @@
 
 ^Software people might know this as testing
 
-Standards, Measuring, QA, inventory
+^Standards, Measuring, QA, inventory
 
 ![](/Users/clark/Downloads/Gribeauval_system_elements.jpg)
 
@@ -183,7 +167,6 @@ Standards, Measuring, QA, inventory
 
 # Today
 
-
 ---
 
 ^Reprap
@@ -203,7 +186,7 @@ Standards, Measuring, QA, inventory
 ^End to end production factory
 ^From sale to design to production, QA, fulfillment, reorder, everything
 
-TODO: SHOTS OF THE FACTORY
+![](/Users/clark/Downloads/Design.jpg)
 
 
 ---
@@ -215,7 +198,7 @@ TODO: SHOTS OF THE FACTORY
 ^But it's the same desire.
 ^The degree to which you can usefully change something is dependent on the degree to which you understand it.
 
-TODO: SHOTS OF THE PRINTERS
+![](/Users/clark/Downloads/Daniel.jpg)
 
 
 ---
@@ -227,11 +210,35 @@ TODO: SHOTS OF PARTS PRINTING ON THE PRINTERS
 
 TODO: SHOTS OF THE IPADS WITH WORK ORDERS ON THEM
 
+
 ---
 
 ![](/Users/clark/Downloads/1*wVcT8A29lBkN0gXFPJUF3w copy.png)
 
+^Alan Kay has this point about 30 year lags from when an idea was
+^generally proved out to when it was generally accepted.
+^3D printing: 80s
+^Erlang: 80s
+
 ---
+
+## Produce
+- Latin: 'pro' - 'ducere': "forward, to lead"
+- create or form (something) as part of a physical, biological, or chemical process
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
+
+
+---
+
+## Process
+- 'pro' - 'cedere': "forward, to go"
+- a series of actions or steps taken in order to achieve a particular end
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
+
+---
+
 
 ^TODO needs pic
 
@@ -246,13 +253,6 @@ TODO: SHOTS OF THE IPADS WITH WORK ORDERS ON THEM
 ^And, crucially, you ahve to be able to adapt your process along the way. You rely on a lot of faulty assumptions, and you have to adjust your response as you learn why your assumptions were incorrect. 
 
 ^This isn't like cracking a safe, where if you get the code, you win the business.
-
----
-
-^Commit history
-
-
-![](/Users/clark/Desktop/Screen Shot 2019-02-24 at 10.21.06 PM.png)
 
 ---
 
@@ -339,7 +339,28 @@ $ iex --name me \
 
 ---
 
-^TODO needs pic
+^A lot of our work looks like this
+^The elixir work, not the production work, I should be clear
+
+![](/Users/clark/Desktop/Screen Shot 2019-02-27 at 9.39.37 PM.png)
+![](/Users/clark/Downloads/VmmFqBG8_aSCrHzv8LeR.png)
+
+---
+
+^It actually is a lot of these things
+
+- screenshot thumbnail generation
+- pdf creation
+- part complexity calculation
+- 3rd party API token refresh
+- mesh simplification
+- file upload
+
+
+![](/Users/clark/Desktop/Screen Shot 2019-02-27 at 9.39.37 PM.png)
+![](/Users/clark/Downloads/VmmFqBG8_aSCrHzv8LeR.png)
+
+---
 
 ```
            +-----------------+               
@@ -362,7 +383,6 @@ $ iex --name me \
 |            |           |                  |
 +------------+           +------------------+
 ```
-
 
 ---
 
@@ -452,9 +472,6 @@ end)
 
 ---
 
-
----
-
 ^TODO needs pic
 
 # Process
@@ -471,21 +488,3 @@ end)
 ### Lone Star Elixir - 2019-03-02
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
-
----
-
-
-^Planning, statistics
-
-<!-- up and to the right -->
-
-^Up and to the right
-
-^If you look at the history of humans applying technology to things, it kind of looks like this
-
-^Today, we're somewhere on the right side of this graph.
-
-^Or, maybe the left. I'll let you be the judge.
-
-
-![](/Users/clark/Desktop/Screen Shot 2019-02-24 at 5.37.25 PM.png)
