@@ -105,14 +105,22 @@
 
 ^Log table
 ^For engineering, statistics, shipping/navigation
+^Calculated by human computers: by hand
+^Mistakes were made
 
 ![](/Users/clark/Downloads/Logarithmorum_Chilias_Prima_page_0-67.jpg)
 
 ---
 
-^Charles Babbage
-
-^Analytical engine
+^Charles Babbage, polymath
+^Really was an inventor, a creator, manufacturer
+^Invented technology to measure to measure the power of train engines, the cow catcher
+^Crytography
+^1832 publishes On the Economy of Machinery and Manufactures, really a book about industrial engineering.
+^Analytical engine, mechanical computer
+^First in 1837
+^Control flow, loops, memory, punch cards
+^Basically the first Turing complete machine
 
 ![](/Users/clark/Downloads/Charles_Babbage_by_Antoine_Claudet_c1847-51-crop.jpg)
 ![](/Users/clark/Downloads/medium_1878_0003__0001_.jpg)
