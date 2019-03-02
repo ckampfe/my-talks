@@ -1,5 +1,7 @@
 ---
 
+^Blank slide
+
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
 
 ---
@@ -7,6 +9,8 @@
 # The __Factory__ of the __Future__
 
 ### Clark Kampfe
+
+#### Fast Radius
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
 
@@ -29,7 +33,6 @@
 - Chicago
 - 50 people
 - 3 devs
-- Elixir
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
 
@@ -48,10 +51,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/WaterMill_Interior_MotionBlur.jpg)
 
-
----
-
-![](/Users/clark/Downloads/volvo-skovde-plant-1.jpg)
 
 ---
 
@@ -131,8 +130,6 @@
 ^First programmer, wrote a program to calculate the sequence of Bernoulli numbers
 ^Which are a sequence of rationals that are negative if N is divisible by 4 and positive otherwise
 
-^Project was scrapped when Babbage died!
-
 ![](/Users/clark/Downloads/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg)
 
 ---
@@ -145,9 +142,18 @@
 
 ---
 
+^Assembly line
+
 ^B-24 Liberators at a plant in Texas
 
-^Major innovations in all kinds of technology: aviation, transportation, weapons, etc.
+^Largest assembly line in the world, producing one B-24 per hour, 3.5M sq ft, 
+
+^By the end of the war, the US would produce over 300,000 aircraft
+
+^Major innovations in all kinds of technology: aviation, transportation, weapons
+
+^Produce all this stuff you need an incredible supply chain, inventory management, staffing,
+^planning, and operations. Basically you have to invent the database, you have to make widespread use of punchcards and electro-mechanical computers.
 
 ![](/Users/clark/Downloads/pic_giant_051415_SM_B-24-Liberator-Plant-2.jpg)
 
@@ -166,11 +172,15 @@
 
 ^1960s/1970s
 
+^We all figured out how to manufacture atomic bombs capable of destroying all of our previous communications networks, and when it became aware of this fact, the government started to explore ideas of how you might maintain a communication network that can survive such a catastrophic event.
+
+^This is the original fault tolerant network
+
 ![](/Users/clark/Downloads/Arpanet-1972-Map.png)
 
 ---
 
-^Reprap
+^REPRAP
 
 ^You may know 3D printing, but if you don't
 ^3D printing is manufacturing by the precise addition of raw material to form a solid
@@ -181,6 +191,8 @@
 
 ---
 
+^MAKERBOT
+
 ^3D printing is a fairly recent technology
 ^The patents for FDM (fused deposition modeling) only expired in 2009
 ^This led to an explosion of activity in the space, with 3D printing becoming something you could go out and buy for a few hundred dollars rather than as a some kind of Star-Trek fantasy
@@ -190,11 +202,12 @@
 
 ---
 
+
 ^This is has been true until recently.
 ^There has been a generational advancement in 3D printing tech, where the consistency of the print and, crucially, the engineering properties of the parts has reached levels demanded by mass-market equipment manurfacturers.
 ^This means parts strong enough to put in a car, in a plane, in your teeth, in your hip, in your kitchen. Anywhere you can think.
 
-![](/Users/clark/Downloads/Daniel.jpg)
+![](/Users/clark/Downloads/Screen Shot 2018-10-01 at 1.06.44 PM.png)
 
 
 ---
@@ -202,7 +215,11 @@
 ^Charlie
 
 ^Ok so the parts are better, what does that mean practically.
-^1. You can produce things that were impossible to build. Like, lattices, hollow things, things that required a lot of assembly can be printed as one piece.
+
+^It means a couple of things.
+
+^1. You can produce things that were impossible to build. Like, lattices, hollow things, things that required a lot of assembly can be printed as one piece. It means that now, you need real design expertise to start to make use of this stuff. The capability has risen, and so the skill required to make full use of that capability has also increased. So, we are building tools to support the smart folks on our team that do the mechanical engineering and physics simulations to design these parts so they get you safely from A to B.
+
 ^2. This changes everything, logistically.
 
 ![](/Users/clark/Downloads/Design.jpg)
@@ -213,20 +230,27 @@
 
 ^3. Think, for a second, about how much stuff you order on Amazon.
 ^Think about where that stuff is, before it gets to you.
+
 ^Think about how long it sits there. Think about how many trucks it rides on. Planes. Ships.
-^Now, imagine what would happen if instead of warehousing all of that stuff, we could build it as soon as you ordered it. At a location near you. Imagine what that does for delivery times. Imagine how much that saves on warehousing. Shipping. Carbon emissions from shipping overseas and in flight. How much this can clean up supply chains.
+
+^Now, imagine what would happen if instead of warehousing all of that stuff, we could build it as soon as you ordered it.
+
+^At a location near you. Imagine what that does for delivery times. Imagine how much that saves on warehousing. Shipping. Carbon emissions from shipping overseas and in flight. How much this can clean up supply chains.
+
 
 ^3D printing is a manufacturing technology, and it will greatly improve the parts we use in our everyday stuff. But in some ways its an supply chain technology. It's an information technology.
 
-^End to end production factory
+^We're making this happen, this is what we're doing.
+
+^We're building this end-to-end production factory
 
 ^From sale to design to production, QA, fulfillment, reorder, everything
+
+^And in addition to it being a huge production challenge, it's an enormous information challenge
 
 ^This is a huge deal, but it's not quite a reality yet. 
 
 ^Why not?
-
-
 
 ---
 
@@ -234,7 +258,7 @@
 ^generally proved out to when it was generally accepted. And really, this point speaks to fashion, and the social phenomena around what it takes for things to go mainstream. We've seen it with all kinds of things. Cell phones. Getting rid of cable. Owning a car. Being alright with getting in a stranger's car as if it were a taxi.
 
 > in computing, there are many, many instances of roughly 30-year lags from when an idea was really proved out to when it gets generally accepted
--- Alan Kay, Turing Award lecture
+-- Alan Kay, Turing Award lecture, 2003
 
 ^But we know another technology kind of like this.
 
@@ -351,27 +375,8 @@
 ^When the folks on the factory floor are happy, and when the mechanical engineers are happy, and when our paying customer are happy, we're happy.
 ^This is a really longwinded way of saying that Phoenix and Elixir and OTP have really helped us delegate a lot of this architectural stuff, so we can focus on what is going to best help the folks doing the heavy lifting.
 
-```
-           +-----------------+               
-           |                 |               
-           |                 |               
-           |some supervision |               
-           |    hierarchy    |               
-           |                 |               
-           |                 |               
-           +-----------------+               
-                    |                        
-       +------------|--------------+         
-       |                           |         
-       v                           v         
-+------------+           +------------------+
-|            |           |                  |
-|            |           |                  |
-| find work  |---------->|     do work      |
-|            |           |                  |
-|            |           |                  |
-+------------+           +------------------+
-```
+
+### find work -> do work
 
 ---
 
@@ -422,23 +427,31 @@ end)
 ^There's quite a bit of Nerves at the conference this year, and that's amazing.
 ^We're certainly not the first or only people doing Nerves, but we are doing it, and we love it, so I'll pile on with how it's been useful for us.
 
-^Our core competency is not embedded hardware.
-^We're building that competency, but we wanted to avoid printing our own circuit boards or writing embedded C code if at all possible. Mostly, this is a time concern.
-^And nerves has let us quickly and, I'll say, fairly easily get useful, robust things up and going.
+^We deploy in on our factory floor, using it too collect plant telemetry like temperature, humidity, and vibration. We also use Pi's to connect directly to our printers, which, amazingly enough are networked.
 
-^One of the headaches when doing embedded development, as I've discovered, is the iteration cycle.
-^How do you get firmware onto the device? How do you configure it? How do you debug it?
-^Once you've done that, how do you verify that your business logic is correct?
+^The Pi's are able to forward on live print information, like print progress, resin temperature, live expected time remaining, status, etc, on to our data ingestion platform where we process it to better determine scheduling and reliability.
+
+^We have plans to use the Pi's with Nerves to do stuff like automatic part quality verification, and as part of a process that will ensure a full chain of custody for action that happens to every part, including stuff like how much time it spends at certain stations in the factory, who touches it, etc.
+
 
 ![](/Users/clark/Downloads/rpi.jpg)
 ![](/Users/clark/Downloads/si7021.jpg)
 
 ---
 
+^Our core competency is not embedded hardware.
+^We're building that competency, but we wanted to avoid printing our own circuit boards or writing embedded C code if at all possible. Mostly, this is a time concern.
+^And nerves has let us quickly and, I'll say, fairly easily get useful, robust things up and going.
+
+^One of the headaches when doing embedded development, as I've discovered, is the iteration cycle.
+
+^How do you get firmware onto the device? How do you configure it? How do you debug it?
+^Once you've done that, how do you verify that your business logic is correct?
+
 ^So, we took a page out of the old Lisp playbook and thought "code really is just data. let's send code to the device, let's develop right on the device".
 ^So, how do we do this?
 ^Well, we leaned on the community. Paul Schoenfelder, and contributors, have written this amazing libcluster library, that helps you do ad-hoc clustering of BEAM nodes.
-^So we set up libcluster to do discovery over UDP multicast, and configure that on the remote device and on a project local on my laptop.
+^So we set up libcluster to do discovery over multicast UDP, and configure that on the remote device and on a project local on my laptop.
 
 ^libcluster
 
@@ -499,47 +512,33 @@ iex> {result, _} = :rpc.multicall(:code, :load_binary, [mod, file, bin])
 ```
 
 ---
-^In fact we used it to figure out a temperature/humidity sensor integration.
-^It's great to be able to read specs, and how things say they'll operate, but once you have things wired up and you're pretty confident of your wiring, you want to get on the device and figure out why it keeps crashing
 
-- nerves
-- libcluster
-- https://github.com/fhunleth/elixir_ale
-- erlang/otp
-
-![](/Users/clark/Desktop/Screen Shot 2019-02-26 at 11.50.16 AM.png)
-
-
----
-
-
-^TODO needs pic
-
-# __OTP__
-
-
-## You still have to design
+# Reflections
 
 ^You still have to do design work.
 ^You still have to understand OTP
 ^This is real work
 ^If you use OTP wrong, it can hurt you
 
----
-
-# Elixir does __not__ do everything
 
 ^you want a constrained system. you do not want a system that does everything
-
+^In many ways, this is about
 ^it does serve amazingly well as a control plane
-
 ^This reflects its designed nature. It was made for a problem,
 ^rather than, as Alan Kay likes to say, "inverse vandalsim", because we could
+
+- You still have to design
+- Elixir does not do everything
+- Manufacturing <-> information
+- Sometimes stuff takes a while
+- We are historical actors
 
 ---
 
 # The __Factory__ of the __Future__
 
 ### @clarkkampfe
+
+#### Fast Radius
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
