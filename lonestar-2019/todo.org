@@ -16,11 +16,17 @@
 *** DONE hot code loading: pic of rpi and temp sensor
     CLOSED: [2019-02-28 Thu 13:03]
 ** reflections
-*** TODO otp is great, it is not magic
-*** TODO you have to design
-*** TODO the world is messy, iteration is messy
-*** TODO elixir doesn't do everything, it's great at controlling
-*** TODO don't prematurely break apart. break apart when faults emerge
+*** DONE otp is great, it is not magic
+    CLOSED: [2019-03-01 Fri 21:44]
+*** DONE you have to design
+    CLOSED: [2019-03-01 Fri 21:44]
+*** DONE the world is messy, iteration is messy
+    CLOSED: [2019-03-01 Fri 21:44]
+*** DONE elixir doesn't do everything, it's great at controlling
+    CLOSED: [2019-03-01 Fri 21:44]
+*** DONE don't prematurely break apart. break apart when faults emerge
+    CLOSED: [2019-03-01 Fri 21:44]
 ** TODO wrap
 ** TODO process: go forward, 30 years
-** TODO FR, come talk to me, 
+** DONE FR, come talk to me, 
+   CLOSED: [2019-03-01 Fri 21:45]

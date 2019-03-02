@@ -14,7 +14,6 @@
 
 # talk goals
 
-- context
 - history
 - experiences
 - reflections
@@ -49,8 +48,21 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/WaterMill_Interior_MotionBlur.jpg)
 
+
 ---
 
+![](/Users/clark/Downloads/volvo-skovde-plant-1.jpg)
+
+---
+
+## Produce
+- Latin: 'pro' - 'ducere': "forward, to lead"
+- create or form (something) as part of a physical, biological, or chemical process
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
+
+
+---
 
 ^Cuneiform. Writing.
 
@@ -58,18 +70,6 @@
 
 ![](/Users/clark/Downloads/Issue_of_barley_rations.JPG)
 
-
----
-
-<!-- Commemoration (in 1877) of the first printed book in ~1477 //// -->
-
-^Process, in many ways, reproduction.
-
-^This is kind of funny, actually, because if you look at the two words,
-
-^Process, and Produce, they have similar definitions
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
 
 ---
 
@@ -111,12 +111,21 @@
 ---
 
 ^Charles Babbage
-^Ada Lovelace
-^Difference Engine, 1822
+
+^Analytical engine
 
 ![](/Users/clark/Downloads/Charles_Babbage_by_Antoine_Claudet_c1847-51-crop.jpg)
+![](/Users/clark/Downloads/medium_1878_0003__0001_.jpg)
+
+---
+
+^Ada Lovelace
+^First programmer, wrote a program to calculate the sequence of Bernoulli numbers
+^Which are a sequence of rationals that are negative if N is divisible by 4 and positive otherwise
+
+^Project was scrapped when Babbage died!
+
 ![](/Users/clark/Downloads/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg)
-![](/Users/clark/Downloads/Difference_engine_plate_1853.jpg)
 
 ---
 
@@ -125,12 +134,6 @@
 ^In this way, having had her project canned before completion, she really is the first programmer.
 
 ![](/Users/clark/Downloads/Diagram_for_the_computation_of_Bernoulli_numbers copy.jpg)
-
----
-
-^Assembly line, Ford Motor Company, early 1900s
-
-![](/Users/clark/Downloads/A-line1913.jpg)
 
 ---
 
@@ -153,12 +156,6 @@
 
 ---
 
-^1950s/60s
-
-![](/Users/clark/Downloads/Used_Punchcard_\(5151286161\).jpg)
-
----
-
 ^1960s/1970s
 
 ![](/Users/clark/Downloads/Arpanet-1972-Map.png)
@@ -176,7 +173,7 @@
 
 ---
 
-^3D printing is a fairly recent technology, all things considered
+^3D printing is a fairly recent technology
 ^The patents for FDM (fused deposition modeling) only expired in 2009
 ^This led to an explosion of activity in the space, with 3D printing becoming something you could go out and buy for a few hundred dollars rather than as a some kind of Star-Trek fantasy
 ^I think a lot of people have this image of 3D printing in their head as a prototype technology. Sure it's fast and convenient, but the quality is low.
@@ -197,14 +194,14 @@
 ^Charlie
 
 ^Ok so the parts are better, what does that mean practically.
-^1. You can produce things that were impossible to build.
+^1. You can produce things that were impossible to build. Like, lattices, hollow things, things that required a lot of assembly can be printed as one piece.
 ^2. This changes everything, logistically.
 
 ![](/Users/clark/Downloads/Design.jpg)
 
 --- 
 
-^TODO: pic of shipping networks, cargo ship, warehouse, etc.
+![](/Users/clark/Downloads/maxresdefault.jpg)
 
 ^3. Think, for a second, about how much stuff you order on Amazon.
 ^Think about where that stuff is, before it gets to you.
@@ -214,6 +211,7 @@
 ^3D printing is a manufacturing technology, and it will greatly improve the parts we use in our everyday stuff. But in some ways its an supply chain technology. It's an information technology.
 
 ^End to end production factory
+
 ^From sale to design to production, QA, fulfillment, reorder, everything
 
 ^This is a huge deal, but it's not quite a reality yet. 
@@ -251,13 +249,26 @@
 
 ^SEGUE INTO WHY ELIXIR
 
+^Elixir and 3D printing seem unusually suited to each other.
+^They're both a radically reimagined way to of modeling the world, of thinking about how you build things.
+^They both are making us question conventional thinking about how you build things.
+^Do I need a cache for this? or is my app fast enough
+^Why do I need to wait 2 months for the first sample parts from our overseas injection molding shop
+^I should be able to quickly adapt my designs to meet new requirements
+^I should be able to understand my systems, physical or virtual, in precise detail
+
+
 ^Elixir Logo
 
 ![](/Users/clark/Downloads/1*wVcT8A29lBkN0gXFPJUF3w copy.png)
 
 ---
 
-^TODO needs pic
+## Process
+- 'pro' - 'cedere': "forward, to go"
+- a series of actions or steps taken in order to achieve a particular end
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
 
 ^We're trying to be a business.
 
@@ -267,11 +278,11 @@
 
 ^You have to be able to take orders, modify them, produce them, QA them, ship them, etc.
 
-^And, crucially, you ahve to be able to adapt your process along the way. You rely on a lot of faulty assumptions, and you have to adjust your response as you learn why your assumptions were incorrect. 
+^And, crucially, you have to be able to adapt your process along the way. You rely on a lot of faulty assumptions, and you have to adjust your response as you learn why your assumptions were incorrect. 
 
 ^This isn't like cracking a safe, where if you get the code, you win the business.
 
-^This is what innovation is like. It's really messy, and you are desperately searching, grasping even, for things that give you leverage and help you focus on what you want to improve, by helping you not care about the stuff you don't want to care about.
+^Innovation, it turns out, is really messy. It's really messy, and you are desperately searching, grasping even, for things that give you leverage and help you focus on what you want to improve, by helping you not care about the stuff you don't want to care about.
 
 ---
 
@@ -379,9 +390,16 @@
   |> case do
     {:ok, work_order} ->
       work_order = get_work_order!(work_order.id)
+
+      # render notification view
+      json =
+        FastRadiusWeb.Api.V1.WorkOrderView.render("work_order.json", %{work_order: work_order})
+
+      # send channel update
       FastRadiusWeb.Endpoint.broadcast("refresh:all", "refresh", %{
         "data" => json
       })
+
      error ->
        error
     end
@@ -483,49 +501,23 @@ iex> {result, _} = :rpc.multicall(:code, :load_binary, [mod, file, bin])
 
 ![](/Users/clark/Desktop/Screen Shot 2019-02-26 at 11.50.16 AM.png)
 
----
-
-^TODO needs pic
-
-# REFLECTIONS
 
 ---
 
-^TODO needs pic
-
-# OTP is awesome
-
-^You'd be surprised how many failures actually are emphemeral
-^Especially with hardware
-^Hardware is bad, it fails all the time, but inconsistently
-^Especially networks
-
----
 
 ^TODO needs pic
 
-# OTP is not magic
+# __OTP__
+
+
+## You still have to design
 
 ^You still have to do design work.
 ^You still have to understand OTP
 ^This is real work
 ^If you use OTP wrong, it can hurt you
 
-
 ---
-
-^TODO needs pic
-
-# choice is emotional
-
-^So, we chose Elixir to bet our business on.
-
-^A lot of folks like to maintain the myth that this is a "rational" "objective" sort of thing, but I think that leads us to fool ourselves and make poor choices.
-
-
----
-
-^TODO needs pic
 
 # Elixir does __not__ do everything
 
@@ -534,51 +526,12 @@ iex> {result, _} = :rpc.multicall(:code, :load_binary, [mod, file, bin])
 ^it does serve amazingly well as a control plane
 
 ^This reflects its designed nature. It was made for a problem,
-^ rather than, as Alan Kay likes to say, "inverse vandalsim", because we could
-
-
----
-
-^TODO needs pic
-
-# to understand: __separate__
-
-^things are made distinct to understand
-
-^you see this all the time: fields of study, animal species, and in software
-
----
-
-^TODO needs pic
-
-# Process
-
-- Latin: "procedere"
-- "go forward"
+^rather than, as Alan Kay likes to say, "inverse vandalsim", because we could
 
 ---
 
 # The __Factory__ of the __Future__
 
-### Clark Kampfe
-
-### Lone Star Elixir - 2019-03-02
+### @clarkkampfe
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
-
----
-
-## Produce
-- Latin: 'pro' - 'ducere': "forward, to lead"
-- create or form (something) as part of a physical, biological, or chemical process
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
-
-
----
-
-## Process
-- 'pro' - 'cedere': "forward, to go"
-- a series of actions or steps taken in order to achieve a particular end
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg)
