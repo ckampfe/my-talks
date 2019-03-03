@@ -31,8 +31,8 @@
 
 - Production-quality 3D printing manufacturing
 - Chicago
-- 50 people
-- 3 devs
+- 50 people, growing
+- 3 devs, growing
 
 ![](https://www.fastradius.com/assets/uploads/heroes/FastRadius_018_resized.jpg)
 
@@ -94,9 +94,13 @@
 
 ^Early 1700s
 
+^Jacob Leupold
+
 ^Massive efficiency
 ^Could run all the time
 ^Wouldn't get tired like a horse
+^You can locate it away from rivers at this point
+^So you need to start developing ways to get stuff to and from it via transport that isn't a boat or a ship
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Jacob_Leupold_Steam_engine_1720.jpg)
 
@@ -104,6 +108,7 @@
 
 ^Log table
 ^For engineering, statistics, shipping/navigation
+^The stuff you do away from the steam engine can have as great an effect on the usefulness of the steam engine as the functionality of the steam engine itself
 ^Calculated by human computers: by hand
 ^Mistakes were made
 
@@ -111,7 +116,7 @@
 
 ---
 
-^Charles Babbage, polymath
+^Charles Babbage, polymath, lived through most of the 19th century
 ^Really was an inventor, a creator, manufacturer
 ^Invented technology to measure to measure the power of train engines, the cow catcher
 ^Crytography
